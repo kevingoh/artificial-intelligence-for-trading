@@ -9,3 +9,6 @@ This repository contains code for Udacity's [AI in Trading NanoDegree](https://w
     └── tests.py             # Common test functions for unit testing student code in projects and quizzes
 ## No Data
 We don't have a licence to redistribute the data to you. We're working on alternatives to this problem.
+
+Launch in Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevingoh/artificial-intelligence-for-trading.git/master)
